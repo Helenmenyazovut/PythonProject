@@ -4,7 +4,7 @@
 Идея проекта:
     Тюнер для гитары с визуализацией гитары и струн, а также "начальным обучением": аккорды и бой.
 Делаю одна: Щербакова Елена Николаевна, группа Б05-524.
-https://gitlab.manytask.org/ElenaShchya/pythonproject
+(https://github.com/Helenmenyazovut/PythonProject)
 Библиотеки:
     Из основных: Numpy, MatplotLib.
     Из ещё незнакомых: PyAudio, seeFretboard, Tkinter/kivi(ещё посмотрю, что будет оптимальнее)
